@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-hasan-code/X-R-shop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-hasan-code/X-R-shop/issues"
+  },
+  "homepage": "https://github.com/A-hasan-code/X-R-shop#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0",
+    "node.js": "^0.0.1-security"
+  }
+}
